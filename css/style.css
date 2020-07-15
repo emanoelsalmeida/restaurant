@@ -99,7 +99,10 @@ main {
     color: white;
     font-family: 'Bebas Neue', cursive;
 }
-
+.box-2 a,.box-3 a{
+    text-decoration: none;
+    color: white;
+}
 .box-info1 {
     height: 200px;
     width: 270px;
@@ -251,17 +254,19 @@ main {
 }
 
 .social-footer {
-    height: 390px;
+    height: 290px;
     width: 100%;
     color: white;
     font-family: 'Bebas Neue', cursive;
     border: 1px solid #404040;
     background-color: #404040;
+    margin-top: -320px 
 }
 
 .social-footer p {
 
     position: relative;
+    top: 5%;
     left: 4%;
     margin-left: 15px;
     margin-bottom: 15px
