@@ -34,7 +34,7 @@ main {
     max-height: 420px;
     
 }
-.container .box-1 img {
+ .box-1 img {
     height: 420px;
     width: 780px;
     position: relative;
@@ -57,7 +57,8 @@ main {
 }
 
 .box-2 img {
-    height: 28vh;
+    height: 180px;
+    width: 385px;
     position: relative;
     bottom:316px;
     left: 68%;
@@ -79,8 +80,8 @@ main {
 }
 
 .box-3 img {
-    height: 190px;
-    width: 345px;
+    height: 203px;
+    width: 385px;
     position: relative;
     bottom: 320px;
     left: 68%;
